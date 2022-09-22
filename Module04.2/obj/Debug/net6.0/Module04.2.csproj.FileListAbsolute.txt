@@ -1,0 +1,45 @@
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.deps.json
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.runtimeconfig.json
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.dll
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.pdb
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.csproj.AssemblyReference.cache
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.AssemblyInfoInputs.cache
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.AssemblyInfo.cs
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.csproj.CoreCompileInputs.cache
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.dll
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/refint/Module04.2.dll
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.pdb
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.genruntimeconfig.cache
+/Users/jojo/Library/CloudStorage/OneDrive-Personal/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/ref/Module04.2.dll
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.exe
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.deps.json
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.runtimeconfig.json
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.dll
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/bin/Debug/net6.0/Module04.2.pdb
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.csproj.AssemblyReference.cache
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.AssemblyInfoInputs.cache
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.AssemblyInfo.cs
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.csproj.CoreCompileInputs.cache
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.dll
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/refint/Module04.2.dll
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.pdb
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/Module04.2.genruntimeconfig.cache
+C:/Users/spmii/OneDrive/Valencia College/BA Valencia/Fall 2022/C#/Homeworks/Module04/Module04.2/Module04.2/obj/Debug/net6.0/ref/Module04.2.dll
+/Users/jojo/VSCode/C#/Module04/Module04.2/bin/Debug/net6.0/Module04.2
+/Users/jojo/VSCode/C#/Module04/Module04.2/bin/Debug/net6.0/Module04.2.deps.json
+/Users/jojo/VSCode/C#/Module04/Module04.2/bin/Debug/net6.0/Module04.2.runtimeconfig.json
+/Users/jojo/VSCode/C#/Module04/Module04.2/bin/Debug/net6.0/Module04.2.dll
+/Users/jojo/VSCode/C#/Module04/Module04.2/bin/Debug/net6.0/Module04.2.pdb
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.csproj.AssemblyReference.cache
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.AssemblyInfoInputs.cache
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.AssemblyInfo.cs
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.csproj.CoreCompileInputs.cache
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.dll
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/refint/Module04.2.dll
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.pdb
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/Module04.2.genruntimeconfig.cache
+/Users/jojo/VSCode/C#/Module04/Module04.2/obj/Debug/net6.0/ref/Module04.2.dll
