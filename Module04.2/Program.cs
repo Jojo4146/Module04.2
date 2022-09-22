@@ -1,9 +1,3 @@
-//-----------------------------------------------------------------
-//  Module03.cs (c) 2022 by Johanna I. Scharbaai-Emilien
-//  Program that finds the area of a circle, square, rectangle
-//  using three different methods and including exception handling.
-//  September 21, 2022
-//-----------------------------------------------------------------
 
 namespace Module04 {
 
